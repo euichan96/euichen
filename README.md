@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#Ffc0cb&height=300&section=header&fontSize=90)
 
 
-### 의찬 Euichen Park
+### 의찬 Euichan Park
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:euichenpark@gmail.com)](mailto:euichenpark@gmail.com)
 
@@ -9,7 +9,7 @@
 
 ## Work experience
 
-- (20.12) 2020년 강릉원주대학교 해람인 온택트 발표대회[캡스톤디자인 경진대회] 장려상
+- (20.12) 2020년 해람인 온택트 발표대회[캡스톤디자인 경진대회] 장려상
 - (20.07) 2020년 1학기 캡스톤디자인 경진대회 장려상
 - (20.06) 2020년도 상반기 건강보험 빅데이터 활용 산업협력 아카데미 수료
 
