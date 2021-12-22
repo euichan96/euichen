@@ -1,32 +1,5 @@
-# test3
-# 제목
-## 부제목
----
 
-***
-
-*****
-
-1. 깃허브 사용법
-
- - 순서 없음
-  - 들여쓰기   
-
-**텍스트** : __굵은 글씨__
-
-`import pandas`
-
-```
-
-import 
-
-```
-
-> 인용문
->> 추가 인용문
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=#ff7f50&height=300&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#Ff7f50&height=300&section=header&fontSize=90)
 
 
 ### 의찬 Euichan Park
